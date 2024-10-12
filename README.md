@@ -38,7 +38,7 @@ In this project, I leveraged machine learning to improve service delivery and pa
 - `notebooks/`: Jupyter Notebooks for running the entire pipeline in AWS SageMaker.
 
 ## Details on Healthcare Project Implementation
-To further explain the project, I have created a detailed report including:
+To further explain the project, I have created a detailed report covering:
 - **Data Preparation**: Data exploration, feature engineering, and Snowflake integration.
 - **Model Building**: Description of models, performance metrics, and model selection.
 - **Model Deployment and Scoring**: Integration with Snowflake for predictions.
