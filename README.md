@@ -32,13 +32,13 @@ In this project, I leveraged machine learning to improve service delivery and pa
 7. **Model Retraining**: A pipeline was created to monitor data/model drift, with automated retraining.
 
 ## Files Overview
-- `scripts/`: Contains Python files for fetching data from Snowflake, preprocessing, and building machine learning models.
 - `SQL/`: Contains the SQL queries used in Snowflake for data handling and feature engineering.
-- `data/`: Simulation and training data files.
 - `notebooks/`: Jupyter Notebooks for running the entire pipeline in AWS SageMaker.
+- `scripts and models/`: Contains Python files for fetching data from Snowflake, preprocessing, and building machine learning models.
+- `data/`: Simulation and training data files.
 
 ## Details on Healthcare Project Implementation
-To further explain the project, I have created a detailed report covering:
+To further explain the project, I have also created a detailed report covering:
 - **Data Preparation**: Data exploration, feature engineering, and Snowflake integration.
 - **Model Building**: Description of models, performance metrics, and model selection.
 - **Model Deployment and Scoring**: Integration with Snowflake for predictions.
