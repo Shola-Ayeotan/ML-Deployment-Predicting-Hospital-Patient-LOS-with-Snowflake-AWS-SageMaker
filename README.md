@@ -37,7 +37,7 @@ In this project, I leveraged machine learning to improve service delivery and pa
 - `scripts and models/`: Contains Python files for fetching data from Snowflake, preprocessing, and building machine learning models.
 - `data/`: Simulation and training data files.
 
-## Details on Healthcare Project Implementation
+## Details on Project Implementation
 To further explain the project, I have also created a detailed report covering:
 - **Data Preparation**: Data exploration, feature engineering, and Snowflake integration.
 - **Model Building**: Description of models, performance metrics, and model selection.
