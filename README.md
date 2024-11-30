@@ -1,5 +1,5 @@
 
-# End-to-End Healthcare Analytics Using Snowflake and AWS SageMaker
+# Healthcare Analytics Using Snowflake and AWS SageMaker
 
 ## Business Overview
 In this project, I leveraged machine learning to improve service delivery and patient care in a hospital, specifically by predicting the length of stay (LOS) of patients. A patient’s LOS has critical implications for patient outcomes, healthcare costs, and hospital efficiency, and by analysing anonymised patient data, healthcare providers can preemptively improve care provision and reduce operational costs.
